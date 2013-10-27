@@ -16,3 +16,4 @@ I:\cygwin\home\L\git\TAS_GUI_Design\WindowsFormsApplication1\WindowsFormsApplica
 I:\cygwin\home\L\git\TAS_GUI_Design\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 I:\cygwin\home\L\git\TAS_GUI_Design\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 I:\cygwin\home\L\git\TAS_GUI_Design\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+I:\cygwin\home\L\git\TAS_GUI_Design\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
